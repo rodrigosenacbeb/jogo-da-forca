@@ -94,6 +94,7 @@ namespace JogoForca
                     sairJogo = true;
                 }
             }          
+            // Comando para congelar a tela até o usuário apertar qualquer tecla.
             Console.ReadKey();
         }
     }
