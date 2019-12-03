@@ -4,6 +4,7 @@ namespace JogoForca
 {
     class Program
     {
+        // Comentário para testar minha contribuição!
         static void Main(string[] args)
         {
             // Vetor com as palavras para ser sorteadas.
